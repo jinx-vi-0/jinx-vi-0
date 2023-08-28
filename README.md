@@ -74,7 +74,7 @@
 ---
 
 <p align = "center">
-	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
+	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&animation=grow_out_in&quoteCategory=programming">
 </p>
 
 ---
@@ -82,9 +82,9 @@
 <h2>GitHub Stats 🔥 </h2>
 
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jinx-vi-0&theme=tokyonight_duo" alt="jinx-vi-0" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jinx-vi-0&theme=dracula" alt="jinx-vi-0" />
     <a href="https://github.com/anuraghazra/github-readme-stats">
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jinx-vi-0&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="jinx-vi-0" height="195px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jinx-vi-0&langs_count=10&show_icons=true&locale=en&theme=dracula" alt="jinx-vi-0" height="195px"/>
 <br/>
 
 </p>
