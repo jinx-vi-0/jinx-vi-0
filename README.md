@@ -1,9 +1,9 @@
-<h1 align="center">Hi , I'm Adarsh  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , I'm Adarsh 👋 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=500&color=F75252&center=true&vCenter=true&width=435&lines=Competitive+Programmer.;Frontend+Developer." alt="Typing SVG" /></a>
 </p>
 
-## <h2>About me <img src = "https://media.giphy.com/media/k76eCxLAYwyjyFXClf/giphy.gif" width = 60px> </h2>
+## <h2>About me 🫠 <img src = "https://media.giphy.com/media/k76eCxLAYwyjyFXClf/giphy.gif" width = 60px> </h2>
 
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="18%"/>
 
@@ -18,7 +18,7 @@
   
 <br>
 
-## <h2>Connect with me <img src = "https://media.giphy.com/media/DUPJKY0WIbUqYhvW5a/giphy.gif" width = 30px> </h2> 
+## <h2>Connect with me 🔗<img src = "https://media.giphy.com/media/DUPJKY0WIbUqYhvW5a/giphy.gif" width = 30px> </h2> 
 
 <p align="center">
 	<a href="mailto:adarshkumarmsay@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
