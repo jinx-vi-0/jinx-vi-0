@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Adarsh 👋 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=500&color=F75252&center=true&vCenter=true&width=435&lines=Competitive+Programmer.;Frontend+Developer." alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=500&color=F75252&center=true&vCenter=true&width=435&lines=Competitive+Programmer.;Web+Developer.;Leetcode+Learner" alt="Typing SVG" /></a>
 </p>
 
 ## <h2>About me 🫠 <img src = "https://media.giphy.com/media/k76eCxLAYwyjyFXClf/giphy.gif" width = 60px> </h2>
@@ -10,7 +10,7 @@
 <br>
 
 - :school: I am a `Junior` in [Information Technology](https://sites.google.com/view/iem-it) at [IEM, Kolkata](https://iem.edu.in/) .
-- :technologist: I am a `Frontend Developer` and a `Competitive Programmer`.
+- :technologist: I am a `Web Developer` and a `Competitive Programmer`.
 - :monocle_face: I’m currently exploring `Backend Development`.
 - :nerd_face: Full of `Energy`.
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1gena5wGPtNlfhJMcRaGc77bh6-cut5d7/view?usp=sharing).
