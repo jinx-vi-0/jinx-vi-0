@@ -11,7 +11,7 @@
 
 - :school: I am a `Junior` in [Information Technology](https://sites.google.com/view/iem-it) at [IEM, Kolkata](https://iem.edu.in/) .
 - :technologist: I am a `Web Developer` and a `Competitive Programmer`.
-- :monocle_face: I’m currently exploring `Backend Development`.
+- :monocle_face: I’m currently exploring `Frontend Development`.
 - :nerd_face: Full of `Energy`.
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1gena5wGPtNlfhJMcRaGc77bh6-cut5d7/view?usp=sharing).
 - :ghost: You can visit [MY WEBSITE](https://portfoliojinx.netlify.app/).
