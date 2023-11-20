@@ -79,7 +79,11 @@
 
 ---
 
-<h2>GitHub Stats 🔥 </h2>
+## Badges 📛
+
+[![An image of @jinxvi0's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jinxvi0)](https://holopin.io/@jinxvi0)
+
+## GitHub Stats 🔥
 
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=jinx-vi-0&theme=dracula" alt="jinx-vi-0" />
