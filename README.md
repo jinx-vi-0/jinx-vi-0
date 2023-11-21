@@ -91,7 +91,7 @@
 <p align="center">
     <img src="https://github-readme-streak-stats-seven-sooty.vercel.app?user=jinx-vi-0&theme=dracula" alt="jinx-vi-0" />
     <a href="https://github.com/jinx-vi-0/github-readme-stats">
-	  <img src="https://github-readme-stats-git-master-jinx-vi-0.vercel.app/api/top-langs?username=jinx-vi-0&langs_count=10&show_icons=true&locale=en&theme=dracula" alt="jinx-vi-0" height="195px"/>
+	  <img src="https://github-readme-stats-git-master-jinx-vi-0.vercel.app/api/top-langs?username=jinx-vi-0&langs_count=6&show_icons=true&locale=en&theme=dracula" alt="jinx-vi-0" height="195px"/>
 <br/>
 
 </p>
