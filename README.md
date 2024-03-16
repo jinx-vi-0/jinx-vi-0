@@ -7,7 +7,7 @@
 
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="18%"/>
 
-- :school: `Junior` in [Information Technology](https://sites.google.com/view/iem-it) at [IEM, Kolkata](https://iem.edu.in/) .
+- :school: `Junior` in [Information Technology](https://sites.google.com/view/iem-it) at [IEM, Kolkata](https://iem.edu.in/)
 - :technologist: `Web Developer` and `Competitive Programmer`
 - :monocle_face: Exploring `Backend Development`
 - :nerd_face: Open for new `opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1gena5wGPtNlfhJMcRaGc77bh6-cut5d7/view?usp=sharing)
@@ -38,9 +38,9 @@
 ## GitHub Stats 🔥
 
 <p align="center">
-    <img src="https://github-readme-streak-stats-seven-sooty.vercel.app?user=jinx-vi-0&theme=dracula" alt="jinx-vi-0" />
+    <img src="https://github-readme-streak-stats-sable-seven.vercel.app?user=jinx-vi-0&theme=dracula" alt="jinx-vi-0" />
     <a href="https://github.com/jinx-vi-0/github-readme-stats">
-	  <img src="https://github-readme-stats-jinxvi0s-projects.vercel.app//api/top-langs?username=jinx-vi-0&langs_count=6&show_icons=true&locale=en&theme=dracula" alt="jinx-vi-0" height="195px"/>
+	  <img src="https://github-readme-stats-jinxvi0s-projects.vercel.app//api/top-langs?username=jinx-vi-0&langs_count=5&show_icons=true&locale=en&theme=dracula" alt="jinx-vi-0" height="195px"/>
 <br/>
 
 </p>
