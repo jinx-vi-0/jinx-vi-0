@@ -39,7 +39,7 @@
 ## GitHub Stats 🔥
 
 <p align="center">
-    <img src="https://github-readme-streak-stats-sable-seven.vercel.app?user=jinx-vi-0&theme=dracula" alt="jinx-vi-0" />
+    <img src="https://github-readme-streak-stats-swart-eight.vercel.app?user=jinx-vi-0&theme=dracula" alt="jinx-vi-0" />
 	<img src="https://github-readme-stats-snowy-kappa-41.vercel.app//api/top-langs?username=jinx-vi-0&layout=donut&theme=dracula" alt="jinx-vi-0" height="195px"/>
 
 </p>
