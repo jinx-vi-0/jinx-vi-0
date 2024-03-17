@@ -1,8 +1,8 @@
 <p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=500&color=F75252&center=true&vCenter=true&width=435&lines=Programmer;Developer;Otaku" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=100&color=F75252&center=true&vCenter=true&width=300&lines=Programmer;Developer;Otaku" alt="Typing SVG" /></a>
 </p>
 
-## <h2>About me <img src = "https://media.giphy.com/media/k76eCxLAYwyjyFXClf/giphy.gif" width = 60px> </h2>
+## <h2>About me <img src = "https://media.giphy.com/media/k76eCxLAYwyjyFXClf/giphy.gif" width = 40px> </h2>
 
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="18%"/>
 
