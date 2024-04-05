@@ -38,8 +38,9 @@
 ## GitHub Stats 🔥
 
 <p align="center">
-    <img src="https://github-readme-streak-stats-swart-eight.vercel.app?user=jinx-vi-0&theme=dracula" alt="jinx-vi-0" />
-	<img src="https://github-readme-stats-snowy-kappa-41.vercel.app//api/top-langs?username=jinx-vi-0&layout=donut&theme=dracula" alt="jinx-vi-0" height="195px"/>
+	<img src="https://github-readme-stats.vercel.app/api?username=jinx-vi-0&theme=dracula&show_icons=true&hide_border=true&count_private=true" alt="jinx-vi-0" />
+<!--     <img src="https://github-readme-streak-stats-swart-eight.vercel.app?user=jinx-vi-0&theme=dracula&hide_border=true" alt="jinx-vi-0" /> -->
+	<img src="https://github-readme-stats-snowy-kappa-41.vercel.app//api/top-langs?username=jinx-vi-0&layout=donut&theme=dracula&hide_border=true" alt="jinx-vi-0" height="195px"/>
 
 </p>
 
