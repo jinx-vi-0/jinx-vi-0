@@ -1,6 +1,9 @@
+<!--
 <p align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=100&color=F75252&center=true&vCenter=true&width=300&lines=Programmer;Developer;Otaku" alt="Typing SVG" /></a>
 </p>
+-->
+
 
 ## <h2>About me <img src = "https://media.giphy.com/media/k76eCxLAYwyjyFXClf/giphy.gif" width = 40px> </h2>
 
@@ -38,8 +41,9 @@
 ## GitHub Stats 🔥
 
 <p align="center">
-	<img src="https://stats.quine.sh/jinx-vi/github?theme=dark" height="250px"/>
-	<img src="https://stats.quine.sh/jinx-vi/languages-over-time?theme=dark" height="250px"/>
+	<img src="https://stats.quira.sh/jinx-vi/github?theme=dark" height="250px"/>
+	<img src="https://stats.quira.sh/jinx-vi/languages-over-time?theme=dark" height="250px"/>
+	
 <!-- 	<img src="https://github-readme-stats.vercel.app/api?username=jinx-vi-0&theme=dracula&show_icons=true&hide_border=true&count_private=true" alt="jinx-vi-0" /> -->
 <!--     <img src="https://github-readme-streak-stats-swart-eight.vercel.app?user=jinx-vi-0&theme=dracula&hide_border=true" alt="jinx-vi-0" /> -->
 <!-- 	<img src="https://github-readme-stats-snowy-kappa-41.vercel.app//api/top-langs?username=jinx-vi-0&layout=donut&theme=dracula&hide_border=true" alt="jinx-vi-0" height="195px"/> -->
