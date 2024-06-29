@@ -27,7 +27,7 @@
 
 ## Languages and Tools 🛠️
 
-<p align="center"> <a href="https://github.com/jinx-vi-0"><img src="https://skillicons.dev/icons?i=html,css,js,git,github,nodejs,npm,postman,express,mysql,mongodb,firebase"> </a> </p>
+<p align="center"> <a href="https://github.com/jinx-vi-0"><img src="https://skillicons.dev/icons?i=html,css,js,git,github,nodejs,npm,postman,express,mysql,mongodb,firebase,react,powershell"> </a> </p>
 <p align="center"> <a href="https://github.com/jinx-vi-0"><img src="https://skillicons.dev/icons?i=cpp,java,c,sublime,vscode,idea,replit,codepen,netlify,vercel,bots,notion,stackoverflow,windows,ubuntu"> </a> </p>
 
 ---
